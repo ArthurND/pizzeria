@@ -1,0 +1,41 @@
+*{
+    
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: top;
+}
+body{
+    width: 100%;
+    height: auto;
+}
+
+header{
+    width: 80%;
+    height: 10%;
+    display: inline-flex;
+}
+main{
+    width: 80%;
+}
+table h3, table h4{
+    background-color: darkgreen;
+    color: white;
+}
+/*table h4{
+    background-color: darkred;
+    color: white;
+}*/
+table .rouge{
+    color: darkred;
+    font-weight: bold;
+}
+table .vert{
+    color: darkgreen;
+    font-weight: bold;
+}
+main{
+    width: 90%;
+    display: flex;
+}
