@@ -35,6 +35,13 @@ table .vert{
     color: darkgreen;
     font-weight: bold;
 }
+table .surPlace{
+    text-align: left;
+}
+table .emporter{
+    text-align: right;
+}
+
 main{
     width: 90%;
     display: flex;
